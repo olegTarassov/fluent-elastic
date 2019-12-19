@@ -1,2 +1,2 @@
-# fluent-elastic
+# fluentd-elastic
 Fluentd docker image with elasticsearch
